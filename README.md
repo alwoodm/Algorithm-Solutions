@@ -5,8 +5,10 @@
 ## Overview
 
 This repository is a collection of my solutions to algorithmic challenges from platforms such as:
+
 - Codeforces
 - Szkopuł
+- LeetCode
 
 All solutions and documentation are provided in English.
 
@@ -36,9 +38,9 @@ Solutions are primarily written in:
 
 ## Resources site
 
-- [LeetCode](https://leetcode.com/)
-- [Szkopuł](https://szkopul.edu.pl/)
 - [Codeforces](https://codeforces.com/)
+- [Szkopuł](https://szkopul.edu.pl/)
+- [LeetCode](https://leetcode.com/)
 
 ## License
 
