@@ -39,9 +39,9 @@ Solutions are primarily written in:
 
 | Platform | Problems Solved | Easy | Medium | Hard |
 |----------|-----------------|------|--------|------|
-| LeetCode | 0               | 0    | 0      | 0    |
+| LeetCode | 18               | 15    | 2      | 1    |
 | Szkopuł | 0             | 0    | 0      | 0    |
-| Total    | 0               | 0    | 0      | 0    |
+| Total    | 18               | 15    | 2      | 1    |
 
 
 ## Resources site
