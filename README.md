@@ -30,18 +30,15 @@ Solutions are organized by platform and then by problem identifier:
 
 Solutions are primarily written in:
 - Python
-- JavaScript
-- Java
 - C++
-- PHP
 
 ## Stats
 
 | Platform | Problems Solved | Easy | Medium | Hard |
 |----------|-----------------|------|--------|------|
 | LeetCode | 18               | 15    | 2      | 1    |
-| Szkopuł | 0             | 0    | 0      | 0    |
-| Total    | 18               | 15    | 2      | 1    |
+| Szkopuł | 64             | 0    | 0      | 0    |
+| Total    | 82               | 15    | 2      | 1    |
 
 
 ## Resources site
