@@ -12,7 +12,7 @@ The first line of input contains a natural number less than a trillion.
 
 ## Output
 
-Print "YES" if the hexadecimal representation contains letters, or "NIE" if it doesn't.
+Print "YES" if the hexadecimal representation contains letters, or "NO" if it doesn't.
 
 ## Examples
 
