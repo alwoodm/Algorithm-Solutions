@@ -23,7 +23,7 @@ The platform offers various categories of problems:
 
 ## Solutions
 
-In this directory, you'll find my solutions to various Szkopuł problems, organized by problem ID and name.
+In this directory, you'll find my solutions to various Szkopuł problems, organized by problem nickname and difficulty level.
 
 ## Resources
 
