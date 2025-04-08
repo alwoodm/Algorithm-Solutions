@@ -37,8 +37,8 @@ Solutions are primarily written in:
 | Platform | Problems Solved | Easy | Medium | Hard |
 |----------|-----------------|------|--------|------|
 | LeetCode | 18               | 15    | 2      | 1    |
-| Szkopuł | 64             | 0    | 0      | 0    |
-| Total    | 82               | 15    | 2      | 1    |
+| Szkopuł | 65             | 0    | 0      | 0    |
+| Total    | 83               | 15    | 2      | 1    |
 
 
 ## Resources site
