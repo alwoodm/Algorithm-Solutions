@@ -46,9 +46,6 @@ Solutions are primarily written in:
 - [LeetCode](https://leetcode.com/)
 - [Szkopuł](https://szkopul.edu.pl/)
 
-## Learning Resources
-
-Blank for now
 
 ## License
 
