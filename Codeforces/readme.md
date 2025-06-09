@@ -43,23 +43,24 @@ The platform offers various categories of problems:
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
 | 800-1199 | 6               |
-| 1200-1599 | 0               |
+| 1200-1599 | 1               |
 | 1600-1999 | 0               |
 | 2000+ | 0               |
-| **Total** | **6**           |
+| **Total** | **7**           |
 
 ## Solved Problems
 
 Here is a list of Codeforces problems I have completed:
 
-| Problem | Name                | Difficulty | Solution Link      |
-|---------|---------------------|------------|--------------------|
-| 4A      | Watermelon          | 800        | [View](./4A.cpp)   |
-| 71A     | Way Too Long Words  | 800        | [View](./71A.cpp)  |
-| 231A    | Team                | 800        | [View](./231A.cpp) |
-| 282A    | Bit++               | 800        | [View](./282A.cpp) |
-| 158A    | Next Round          | 800        | [View](./158A.cpp) |
-| 50A     | Domino piling       | 800        | [View](./50A.cpp)  |
+| Problem | Name                 | Difficulty | Solution Link      |
+|---------|----------------------|------------|--------------------|
+| 4A      | Watermelon           | 800        | [View](./4A.cpp)   |
+| 71A     | Way Too Long Words   | 800        | [View](./71A.cpp)  |
+| 231A    | Team                 | 800        | [View](./231A.cpp) |
+| 282A    | Bit++                | 800        | [View](./282A.cpp) |
+| 158A    | Next Round           | 800        | [View](./158A.cpp) |
+| 50A     | Domino piling        | 800        | [View](./50A.cpp)  |
+| 466A    | Cheap Travel         | 1200       | [View](./466A.cpp) |
 
 
 ## My Profile
