@@ -16,7 +16,7 @@ int main() {
     int min_score = scores[k-1];
 
     for (int i = 0; i < n; i++) {
-        if (scores[i] >= min_score && scores[i]!=0) x++;
+        if (scores[i] >= min_score && scores[i]>0) x++;
     }
 
     std::cout << x;
