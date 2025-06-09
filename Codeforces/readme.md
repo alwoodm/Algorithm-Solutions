@@ -54,7 +54,10 @@ The platform offers various categories of problems:
 
 ## Solutions
 
-In this directory, you'll find my solutions to various Codeforces problems, organized by problem number and difficulty level[^1].
+In this directory, you'll find my solutions to various Codeforces problems, organized by problem number.
+
+> **Note:** You can find the statement for any Codeforces problem at [https://codeforces.com/problemset/problem/X/Y](https://codeforces.com/problemset/problem/X/Y), where `X` is the contest number (e.g., 4) and `Y` is the problem letter (e.g., A).  
+> For example, the link to problem 4A is: [https://codeforces.com/problemset/problem/4/A](https://codeforces.com/problemset/problem/4/A)
 
 ## Resources
 
