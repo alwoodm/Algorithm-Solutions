@@ -41,12 +41,12 @@ The platform offers various categories of problems:
 ## Stats
 
 | Difficulty Range | Problems Solved |
-| :-- | :-- |
-| 800-1199 | 1 |
-| 1200-1599 | 0 |
-| 1600-1999 | 0 |
-| 2000+ | 0 |
-| **Total** | **1** |
+| :-- |:----------------|
+| 800-1199 | 3               |
+| 1200-1599 | 0               |
+| 1600-1999 | 0               |
+| 2000+ | 0               |
+| **Total** | **3**           |
 
 ## My Profile
 
