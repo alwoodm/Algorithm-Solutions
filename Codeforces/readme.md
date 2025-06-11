@@ -1,4 +1,4 @@
-        # Codeforces
+# Codeforces
 
 ## About the Platform
 
