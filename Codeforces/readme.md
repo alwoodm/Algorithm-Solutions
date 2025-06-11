@@ -1,4 +1,4 @@
-# Codeforces
+        # Codeforces
 
 ## About the Platform
 
@@ -42,11 +42,11 @@ The platform offers various categories of problems:
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 9               |
+| 800-1199 | 10              |
 | 1200-1599 | 1               |
 | 1600-1999 | 0               |
 | 2000+ | 0               |
-| **Total** | **10**           |
+| **Total** | **11**          |
 
 ## Solved Problems
 
@@ -63,7 +63,8 @@ Here is a list of Codeforces problems I have completed:
 | 466A    | Cheap Travel       | 1200       | [View](./466A.cpp) |
 | 617A    | Elephant           | 800        | [View](./617A.cpp) |
 | 200B    | Drinks             | 800        | [View](./200B.cpp) |
-| 59A    | Word             | 800        | [View](./59A.cpp) |
+| 59A     | Word             | 800        | [View](./59A.cpp)  |
+| 1A      | Theatre Square             | 1000       | [View](./1A.cpp)   |
 
 
 ## My Profile
