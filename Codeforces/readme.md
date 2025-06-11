@@ -63,6 +63,7 @@ Here is a list of Codeforces problems I have completed:
 | 466A    | Cheap Travel       | 1200       | [View](./466A.cpp) |
 | 617A    | Elephant           | 800        | [View](./617A.cpp) |
 | 200B    | Drinks             | 800        | [View](./200B.cpp) |
+| 200B    | Drinks             | 800        | [View](./200B.cpp) |
 
 
 ## My Profile
