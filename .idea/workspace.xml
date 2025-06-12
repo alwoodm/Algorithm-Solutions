@@ -15,10 +15,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c3c153c-47f0-41c7-ba20-09c7cb4a6092" name="Changes" comment="Codeforces 50A Domino piling - Optymalization">
-      <change afterPath="$PROJECT_DIR$/Codeforces/1B.cpp" afterDir="false" />
+    <list default="true" id="6c3c153c-47f0-41c7-ba20-09c7cb4a6092" name="Changes" comment="Codeforces 1B Spreadsheets">
+      <change afterPath="$PROJECT_DIR$/Codeforces/236A.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codeforces/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Codeforces/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +43,6 @@
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
@@ -94,7 +91,7 @@
       <recent name="$PROJECT_DIR$/Codeforces" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.1B.cpp">
+  <component name="RunManager" selected="C/C++ File.236A.cpp">
     <configuration name="1B.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="1B.cpp" CONFIG_NAME="1B.cpp">
       <option name="sourceFile" value="Codeforces/1B.cpp" />
       <method v="2">
@@ -103,6 +100,12 @@
     </configuration>
     <configuration name="200B.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="200B.cpp" CONFIG_NAME="200B.cpp">
       <option name="sourceFile" value="Codeforces/200B.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="236A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="236A.cpp" CONFIG_NAME="236A.cpp">
+      <option name="sourceFile" value="Codeforces/236A.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -119,19 +122,13 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="617A" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="617A" CONFIG_NAME="617A">
-      <option name="sourceFile" value="Codeforces/617A.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.236A.cpp" />
         <item itemvalue="C/C++ File.1B.cpp" />
         <item itemvalue="C/C++ File.2A.cpp" />
         <item itemvalue="C/C++ File.59A.cpp" />
         <item itemvalue="C/C++ File.200B.cpp" />
-        <item itemvalue="C/C++ File.617A" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +149,7 @@
       <workItem from="1749639741880" duration="1662000" />
       <workItem from="1749667452535" duration="4966000" />
       <workItem from="1749672601322" duration="679000" />
-      <workItem from="1749718503307" duration="460000" />
+      <workItem from="1749718503307" duration="1280000" />
     </task>
     <task id="LOCAL-00001" summary="Codeforces 50A Domino piling">
       <option name="closed" value="true" />
@@ -194,7 +191,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749667548082</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Codeforces 1B Spreadsheets">
+      <option name="closed" value="true" />
+      <created>1749719256604</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749719256604</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,7 +222,8 @@
     <MESSAGE value="Codeforces 617A Elephant" />
     <MESSAGE value="Codeforces 200B Drinks" />
     <MESSAGE value="Codeforces 50A Domino piling - Optymalization" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codeforces 50A Domino piling - Optymalization" />
+    <MESSAGE value="Codeforces 1B Spreadsheets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codeforces 1B Spreadsheets" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -231,6 +237,16 @@
           <url>file://$PROJECT_DIR$/Codeforces/1B.cpp</url>
           <line>38</line>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Codeforces/236A.cpp</url>
+          <line>12</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Codeforces/236A.cpp</url>
+          <line>15</line>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

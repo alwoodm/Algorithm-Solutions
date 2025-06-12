@@ -42,11 +42,11 @@ The platform offers various categories of problems:
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 10              |
+| 800-1199 | 11              |
 | 1200-1599 | 1               |
-| 1600-1999 | 0               |
+| 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **11**          |
+| **Total** | **13**          |
 
 ## Solved Problems
 
@@ -66,7 +66,7 @@ Here is a list of Codeforces problems I have completed:
 | 59A     | Word             | 800        | [View](./59A.cpp)  |
 | 1A      | Theatre Square             | 1000       | [View](./1A.cpp)   |
 | 1B      | Spreadsheets             | 1600       | [View](./1B.cpp)   |
-
+| 236A    | Boy or Girl             | 800        | [View](./236A.cpp) |
 
 ## My Profile
 
