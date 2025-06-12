@@ -44,9 +44,9 @@ The platform offers various categories of problems:
 | :-- |:----------------|
 | 800-1199 | 10              |
 | 1200-1599 | 1               |
-| 1600-1999 | 0               |
+| 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **11**          |
+| **Total** | **12**          |
 
 ## Solved Problems
 
