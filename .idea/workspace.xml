@@ -15,8 +15,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c3c153c-47f0-41c7-ba20-09c7cb4a6092" name="Changes" comment="Codeforces 200B Drinks">
-      <change afterPath="$PROJECT_DIR$/Codeforces/59A.cpp" afterDir="false" />
+    <list default="true" id="6c3c153c-47f0-41c7-ba20-09c7cb4a6092" name="Changes" comment="Codeforces 50A Domino piling - Optymalization">
+      <change afterPath="$PROJECT_DIR$/Codeforces/1B.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Codeforces/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Codeforces/readme.md" afterDir="false" />
     </list>
@@ -48,10 +48,6 @@
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -64,53 +60,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "C/C++ File.200B.cpp.executor": "Run",
-    "C/C++ File.236A.cpp (1).executor": "Run",
-    "C/C++ File.236A.cpp.executor": "Run",
-    "C/C++ File.466A.cpp.executor": "Run",
-    "C/C++ File.50A.cpp.executor": "Run",
-    "C/C++ File.59A.cpp.executor": "Run",
-    "C/C++ File.617A.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/alwood/Dokumenty/GitHub/Algorithm-Solutions/Codeforces",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ File.1B.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.200B.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.236A.cpp (1).executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.236A.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.2A.cpp.executor&quot;: &quot;Debug&quot;,
+    &quot;C/C++ File.466A.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.50A.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.59A.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ File.617A.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/alwood/Dokumenty/GitHub/Algorithm-Solutions/Codeforces&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Codeforces" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.59A.cpp">
+  <component name="RunManager" selected="C/C++ File.1B.cpp">
+    <configuration name="1B.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="1B.cpp" CONFIG_NAME="1B.cpp">
+      <option name="sourceFile" value="Codeforces/1B.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="200B.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="200B.cpp" CONFIG_NAME="200B.cpp">
       <option name="sourceFile" value="Codeforces/200B.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="236A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="236A.cpp" CONFIG_NAME="236A.cpp">
-      <option name="sourceFile" value="Codeforces/236A.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="466A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="466A.cpp" CONFIG_NAME="466A.cpp">
-      <option name="sourceFile" value="Codeforces/466A.cpp" />
+    <configuration name="2A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="2A.cpp" CONFIG_NAME="2A.cpp">
+      <option name="sourceFile" value="Codeforces/2A.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -129,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.1B.cpp" />
+        <item itemvalue="C/C++ File.2A.cpp" />
         <item itemvalue="C/C++ File.59A.cpp" />
         <item itemvalue="C/C++ File.200B.cpp" />
         <item itemvalue="C/C++ File.617A" />
-        <item itemvalue="C/C++ File.236A.cpp" />
-        <item itemvalue="C/C++ File.466A.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -152,6 +150,9 @@
       <workItem from="1749559127190" duration="471000" />
       <workItem from="1749622740151" duration="1700000" />
       <workItem from="1749639741880" duration="1662000" />
+      <workItem from="1749667452535" duration="4966000" />
+      <workItem from="1749672601322" duration="679000" />
+      <workItem from="1749718503307" duration="460000" />
     </task>
     <task id="LOCAL-00001" summary="Codeforces 50A Domino piling">
       <option name="closed" value="true" />
@@ -185,7 +186,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749624100796</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Codeforces 50A Domino piling - Optymalization">
+      <option name="closed" value="true" />
+      <created>1749667548082</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1749667548082</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,6 +216,23 @@
     <MESSAGE value="Codeforces 466A Cheap Travel" />
     <MESSAGE value="Codeforces 617A Elephant" />
     <MESSAGE value="Codeforces 200B Drinks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codeforces 200B Drinks" />
+    <MESSAGE value="Codeforces 50A Domino piling - Optymalization" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codeforces 50A Domino piling - Optymalization" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Codeforces/1B.cpp</url>
+          <line>54</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Codeforces/1B.cpp</url>
+          <line>38</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

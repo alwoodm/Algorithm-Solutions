@@ -65,6 +65,7 @@ Here is a list of Codeforces problems I have completed:
 | 200B    | Drinks             | 800        | [View](./200B.cpp) |
 | 59A     | Word             | 800        | [View](./59A.cpp)  |
 | 1A      | Theatre Square             | 1000       | [View](./1A.cpp)   |
+| 1B      | Spreadsheets             | 1600       | [View](./1B.cpp)   |
 
 
 ## My Profile
