@@ -5,6 +5,7 @@
   </component>
   <component name="BackendCodeEditorMiscSettings">
     <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/LiveTemplatesHousekeeping/HotspotSessionHintIsShown/@EntryValue" value="true" type="bool" />
   </component>
   <component name="CMakeProjectFlavorService">
     <option name="flavorId" value="CMakePlainProjectFlavor" />
@@ -15,9 +16,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c3c153c-47f0-41c7-ba20-09c7cb4a6092" name="Changes" comment="Codeforces 1B Spreadsheets">
-      <change afterPath="$PROJECT_DIR$/Codeforces/236A.cpp" afterDir="false" />
+    <list default="true" id="6c3c153c-47f0-41c7-ba20-09c7cb4a6092" name="Changes" comment="Codeforces 236A Boy or Girl">
+      <change afterPath="$PROJECT_DIR$/Codeforces/1328A.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Codeforces/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Codeforces/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +47,38 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -57,49 +91,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;C/C++ File.1B.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.200B.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.236A.cpp (1).executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.236A.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.2A.cpp.executor&quot;: &quot;Debug&quot;,
-    &quot;C/C++ File.466A.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.50A.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.59A.cpp.executor&quot;: &quot;Run&quot;,
-    &quot;C/C++ File.617A.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/alwood/Dokumenty/GitHub/Algorithm-Solutions/Codeforces&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.1328A.cpp.executor": "Run",
+    "C/C++ File.1B.cpp.executor": "Run",
+    "C/C++ File.200B.cpp.executor": "Run",
+    "C/C++ File.236A.cpp (1).executor": "Run",
+    "C/C++ File.236A.cpp.executor": "Run",
+    "C/C++ File.2A.cpp.executor": "Debug",
+    "C/C++ File.466A.cpp.executor": "Run",
+    "C/C++ File.50A.cpp.executor": "Run",
+    "C/C++ File.59A.cpp.executor": "Run",
+    "C/C++ File.617A.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/alwood/Dokumenty/GitHub/Algorithm-Solutions/Codeforces",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Codeforces" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.236A.cpp">
-    <configuration name="1B.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="1B.cpp" CONFIG_NAME="1B.cpp">
-      <option name="sourceFile" value="Codeforces/1B.cpp" />
+  <component name="RunManager" selected="C/C++ File.1328A.cpp">
+    <configuration name="1328A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="1328A.cpp" CONFIG_NAME="1328A.cpp">
+      <option name="sourceFile" value="Codeforces/1328A.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="200B.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="200B.cpp" CONFIG_NAME="200B.cpp">
-      <option name="sourceFile" value="Codeforces/200B.cpp" />
+    <configuration name="1B.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="1B.cpp" CONFIG_NAME="1B.cpp">
+      <option name="sourceFile" value="Codeforces/1B.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -124,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.1328A.cpp" />
         <item itemvalue="C/C++ File.236A.cpp" />
         <item itemvalue="C/C++ File.1B.cpp" />
         <item itemvalue="C/C++ File.2A.cpp" />
         <item itemvalue="C/C++ File.59A.cpp" />
-        <item itemvalue="C/C++ File.200B.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +184,9 @@
       <workItem from="1749639741880" duration="1662000" />
       <workItem from="1749667452535" duration="4966000" />
       <workItem from="1749672601322" duration="679000" />
-      <workItem from="1749718503307" duration="1280000" />
+      <workItem from="1749718503307" duration="1555000" />
+      <workItem from="1749720383104" duration="1774000" />
+      <workItem from="1749902862159" duration="1617000" />
     </task>
     <task id="LOCAL-00001" summary="Codeforces 50A Domino piling">
       <option name="closed" value="true" />
@@ -199,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749719256604</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Codeforces 236A Boy or Girl">
+      <option name="closed" value="true" />
+      <created>1749720298723</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1749720298723</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,7 +268,8 @@
     <MESSAGE value="Codeforces 200B Drinks" />
     <MESSAGE value="Codeforces 50A Domino piling - Optymalization" />
     <MESSAGE value="Codeforces 1B Spreadsheets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codeforces 1B Spreadsheets" />
+    <MESSAGE value="Codeforces 236A Boy or Girl" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codeforces 236A Boy or Girl" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

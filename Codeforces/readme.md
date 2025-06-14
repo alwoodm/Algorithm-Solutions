@@ -52,21 +52,22 @@ The platform offers various categories of problems:
 
 Here is a list of Codeforces problems I have completed:
 
-| Problem | Name               | Difficulty | Solution Link      |
-|---------|--------------------|------------|--------------------|
-| 4A      | Watermelon         | 800        | [View](./4A.cpp)   |
-| 71A     | Way Too Long Words | 800        | [View](./71A.cpp)  |
-| 231A    | Team               | 800        | [View](./231A.cpp) |
-| 282A    | Bit++              | 800        | [View](./282A.cpp) |
-| 158A    | Next Round         | 800        | [View](./158A.cpp) |
-| 50A     | Domino piling      | 800        | [View](./50A.cpp)  |
-| 466A    | Cheap Travel       | 1200       | [View](./466A.cpp) |
-| 617A    | Elephant           | 800        | [View](./617A.cpp) |
-| 200B    | Drinks             | 800        | [View](./200B.cpp) |
-| 59A     | Word             | 800        | [View](./59A.cpp)  |
-| 1A      | Theatre Square             | 1000       | [View](./1A.cpp)   |
-| 1B      | Spreadsheets             | 1600       | [View](./1B.cpp)   |
-| 236A    | Boy or Girl             | 800        | [View](./236A.cpp) |
+| Problem | Name               | Difficulty | Solution Link       |
+|---------|--------------------|------------|---------------------|
+| 4A      | Watermelon         | 800        | [View](./4A.cpp)    |
+| 71A     | Way Too Long Words | 800        | [View](./71A.cpp)   |
+| 231A    | Team               | 800        | [View](./231A.cpp)  |
+| 282A    | Bit++              | 800        | [View](./282A.cpp)  |
+| 158A    | Next Round         | 800        | [View](./158A.cpp)  |
+| 50A     | Domino piling      | 800        | [View](./50A.cpp)   |
+| 466A    | Cheap Travel       | 1200       | [View](./466A.cpp)  |
+| 617A    | Elephant           | 800        | [View](./617A.cpp)  |
+| 200B    | Drinks             | 800        | [View](./200B.cpp)  |
+| 59A     | Word             | 800        | [View](./59A.cpp)   |
+| 1A      | Theatre Square             | 1000       | [View](./1A.cpp)    |
+| 1B      | Spreadsheets             | 1600       | [View](./1B.cpp)    |
+| 236A    | Boy or Girl             | 800        | [View](./236A.cpp)  |
+| 1328A   | Divisibility Problem             | 800        | [View](./1328A.cpp) |
 
 ## My Profile
 
