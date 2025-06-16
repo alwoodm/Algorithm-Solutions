@@ -42,11 +42,11 @@ The platform offers various categories of problems:
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 13              |
+| 800-1199 | 14              |
 | 1200-1599 | 1               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **15**          |
+| **Total** | **16**          |
 
 ## Solved Problems
 
@@ -69,7 +69,7 @@ Here is a list of Codeforces problems I have completed:
 | 236A    | Boy or Girl             | 800        | [View](./236A.cpp)  |
 | 1328A   | Divisibility Problem             | 800        | [View](./1328A.cpp) |
 | 1335A   | Candies and Two Sisters             | 800        | [View](./1335A.cpp) |
-
+| 318A    | Even Odds             | 900        | [View](./318A.cpp)  |
 
 ## My Profile
 

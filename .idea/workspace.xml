@@ -16,10 +16,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c3c153c-47f0-41c7-ba20-09c7cb4a6092" name="Changes" comment="Codeforces 236A Boy or Girl">
-      <change afterPath="$PROJECT_DIR$/Codeforces/1328A.cpp" afterDir="false" />
+    <list default="true" id="6c3c153c-47f0-41c7-ba20-09c7cb4a6092" name="Changes" comment="Codeforces 1335A Candies and Two Sisters">
+      <change afterPath="$PROJECT_DIR$/Codeforces/318A.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Codeforces/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Codeforces/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,11 +93,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "C/C++ File.1328A.cpp.executor": "Run",
+    "C/C++ File.1335A.cpp.executor": "Run",
     "C/C++ File.1B.cpp.executor": "Run",
     "C/C++ File.200B.cpp.executor": "Run",
     "C/C++ File.236A.cpp (1).executor": "Run",
     "C/C++ File.236A.cpp.executor": "Run",
     "C/C++ File.2A.cpp.executor": "Debug",
+    "C/C++ File.318A.cpp.executor": "Run",
     "C/C++ File.466A.cpp.executor": "Run",
     "C/C++ File.50A.cpp.executor": "Run",
     "C/C++ File.59A.cpp.executor": "Run",
@@ -126,9 +127,15 @@
       <recent name="$PROJECT_DIR$/Codeforces" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.1328A.cpp">
+  <component name="RunManager" selected="C/C++ File.318A.cpp">
     <configuration name="1328A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="1328A.cpp" CONFIG_NAME="1328A.cpp">
       <option name="sourceFile" value="Codeforces/1328A.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="1335A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="1335A.cpp" CONFIG_NAME="1335A.cpp">
+      <option name="sourceFile" value="Codeforces/1335A.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -145,25 +152,19 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="2A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="2A.cpp" CONFIG_NAME="2A.cpp">
-      <option name="sourceFile" value="Codeforces/2A.cpp" />
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="59A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="59A.cpp" CONFIG_NAME="59A.cpp">
-      <option name="sourceFile" value="Codeforces/59A.cpp" />
+    <configuration name="318A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="318A.cpp" CONFIG_NAME="318A.cpp">
+      <option name="sourceFile" value="Codeforces/318A.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.318A.cpp" />
+        <item itemvalue="C/C++ File.1335A.cpp" />
         <item itemvalue="C/C++ File.1328A.cpp" />
         <item itemvalue="C/C++ File.236A.cpp" />
         <item itemvalue="C/C++ File.1B.cpp" />
-        <item itemvalue="C/C++ File.2A.cpp" />
-        <item itemvalue="C/C++ File.59A.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +187,9 @@
       <workItem from="1749672601322" duration="679000" />
       <workItem from="1749718503307" duration="1555000" />
       <workItem from="1749720383104" duration="1774000" />
-      <workItem from="1749902862159" duration="1617000" />
+      <workItem from="1749902862159" duration="1666000" />
+      <workItem from="1750019573409" duration="1046000" />
+      <workItem from="1750104627390" duration="707000" />
     </task>
     <task id="LOCAL-00001" summary="Codeforces 50A Domino piling">
       <option name="closed" value="true" />
@@ -244,7 +247,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749720298723</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Codeforces 1328A Divisibility Problem">
+      <option name="closed" value="true" />
+      <created>1749904631324</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1749904631324</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Codeforces 1335A Candies and Two Sisters">
+      <option name="closed" value="true" />
+      <created>1750019963883</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1750019963883</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,7 +288,9 @@
     <MESSAGE value="Codeforces 50A Domino piling - Optymalization" />
     <MESSAGE value="Codeforces 1B Spreadsheets" />
     <MESSAGE value="Codeforces 236A Boy or Girl" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codeforces 236A Boy or Girl" />
+    <MESSAGE value="Codeforces 1328A Divisibility Problem" />
+    <MESSAGE value="Codeforces 1335A Candies and Two Sisters" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codeforces 1335A Candies and Two Sisters" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
