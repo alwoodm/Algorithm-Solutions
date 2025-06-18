@@ -42,35 +42,37 @@ The platform offers various categories of problems:
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 15              |
+| 800-1199 | 16              |
 | 1200-1599 | 1               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **17**          |
+| **Total** | **18**          |
 
 ## Solved Problems
 
 Here is a list of Codeforces problems I have completed:
 
-| Problem | Name               | Difficulty | Solution Link       |
-|---------|--------------------|------------|---------------------|
-| 4A      | Watermelon         | 800        | [View](./4A.cpp)    |
-| 71A     | Way Too Long Words | 800        | [View](./71A.cpp)   |
-| 231A    | Team               | 800        | [View](./231A.cpp)  |
-| 282A    | Bit++              | 800        | [View](./282A.cpp)  |
-| 158A    | Next Round         | 800        | [View](./158A.cpp)  |
-| 50A     | Domino piling      | 800        | [View](./50A.cpp)   |
-| 466A    | Cheap Travel       | 1200       | [View](./466A.cpp)  |
-| 617A    | Elephant           | 800        | [View](./617A.cpp)  |
-| 200B    | Drinks             | 800        | [View](./200B.cpp)  |
-| 59A     | Word             | 800        | [View](./59A.cpp)   |
-| 1A      | Theatre Square             | 1000       | [View](./1A.cpp)    |
-| 1B      | Spreadsheets             | 1600       | [View](./1B.cpp)    |
+| Problem | Name                    | Difficulty | Solution Link       |
+|---------|-------------------------|------------|---------------------|
+| 4A      | Watermelon              | 800        | [View](./4A.cpp)    |
+| 71A     | Way Too Long Words      | 800        | [View](./71A.cpp)   |
+| 231A    | Team                    | 800        | [View](./231A.cpp)  |
+| 282A    | Bit++                   | 800        | [View](./282A.cpp)  |
+| 158A    | Next Round              | 800        | [View](./158A.cpp)  |
+| 50A     | Domino piling           | 800        | [View](./50A.cpp)   |
+| 466A    | Cheap Travel            | 1200       | [View](./466A.cpp)  |
+| 617A    | Elephant                | 800        | [View](./617A.cpp)  |
+| 200B    | Drinks                  | 800        | [View](./200B.cpp)  |
+| 59A     | Word                    | 800        | [View](./59A.cpp)   |
+| 1A      | Theatre Square          | 1000       | [View](./1A.cpp)    |
+| 1B      | Spreadsheets            | 1600       | [View](./1B.cpp)    |
 | 236A    | Boy or Girl             | 800        | [View](./236A.cpp)  |
-| 1328A   | Divisibility Problem             | 800        | [View](./1328A.cpp) |
-| 1335A   | Candies and Two Sisters             | 800        | [View](./1335A.cpp) |
-| 318A    | Even Odds             | 900        | [View](./318A.cpp)  |
-| 9A      | Die Roll             | 800        | [View](./9A.cpp)    |
+| 1328A   | Divisibility Problem    | 800        | [View](./1328A.cpp) |
+| 1335A   | Candies and Two Sisters | 800        | [View](./1335A.cpp) |
+| 318A    | Even Odds               | 900        | [View](./318A.cpp)  |
+| 9A      | Die Roll                | 800        | [View](./9A.cpp)    |
+| 41A      | Translation             | 800        | [View](./41A.cpp)   |
+
 
 ## My Profile
 

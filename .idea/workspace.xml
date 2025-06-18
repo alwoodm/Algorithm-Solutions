@@ -16,8 +16,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c3c153c-47f0-41c7-ba20-09c7cb4a6092" name="Changes" comment="Codeforces 1335A Candies and Two Sisters">
-      <change afterPath="$PROJECT_DIR$/Codeforces/9A.cpp" afterDir="false" />
+    <list default="true" id="6c3c153c-47f0-41c7-ba20-09c7cb4a6092" name="Changes" comment="Codeforces 9A Die Roll">
+      <change afterPath="$PROJECT_DIR$/Codeforces/41A.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,12 +37,12 @@
     &quot;assignee&quot;: &quot;alwoodm&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/alwoodm/Algorithm-Solutions.git",
-    "accountId": "32cc0485-3c80-4362-b258-2a552c7c2d38"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alwoodm/Algorithm-Solutions.git&quot;,
+    &quot;accountId&quot;: &quot;32cc0485-3c80-4362-b258-2a552c7c2d38&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///dummy.cpp" root0="SKIP_HIGHLIGHTING" />
@@ -100,6 +100,7 @@
     "C/C++ File.236A.cpp.executor": "Run",
     "C/C++ File.2A.cpp.executor": "Debug",
     "C/C++ File.318A.cpp.executor": "Run",
+    "C/C++ File.41A.cpp.executor": "Run",
     "C/C++ File.466A.cpp.executor": "Run",
     "C/C++ File.50A.cpp.executor": "Run",
     "C/C++ File.59A.cpp.executor": "Run",
@@ -131,10 +132,10 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13828126" />
-      <window_info id="Commit" order="1" weight="0.13828126" />
-      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info id="Welcome to GitHub Copilot" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09973958" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Welcome to GitHub Copilot" order="2" />
+      <window_info active="true" id="Commit" order="3" side_tool="true" visible="true" weight="0.09973958" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Build" />
@@ -158,7 +159,7 @@
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
       <window_info anchor="right" id="Meson" order="5" />
-      <window_info active="true" anchor="right" id="Run" order="6" visible="true" weight="0.32994792" />
+      <window_info active="true" anchor="right" id="Run" order="6" visible="true" />
       <window_info anchor="right" id="Messages" order="7" weight="0.33046874" />
       <window_info anchor="right" id="Debug" order="8" visible="true" weight="0.33046874" />
       <window_info anchor="right" id="github.copilotToolWindow" order="9" />
@@ -170,7 +171,7 @@
       <recent name="$PROJECT_DIR$/Codeforces" />
     </key>
   </component>
-  <component name="RunManager" selected="C/C++ File.9A.cpp">
+  <component name="RunManager" selected="C/C++ File.41A.cpp">
     <configuration name="1328A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="1328A.cpp" CONFIG_NAME="1328A.cpp">
       <option name="sourceFile" value="Codeforces/1328A.cpp" />
       <method v="2">
@@ -183,14 +184,14 @@
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="236A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="236A.cpp" CONFIG_NAME="236A.cpp">
-      <option name="sourceFile" value="Codeforces/236A.cpp" />
+    <configuration name="318A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="318A.cpp" CONFIG_NAME="318A.cpp">
+      <option name="sourceFile" value="Codeforces/318A.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="318A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="318A.cpp" CONFIG_NAME="318A.cpp">
-      <option name="sourceFile" value="Codeforces/318A.cpp" />
+    <configuration name="41A.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithm-Solutions" TARGET_NAME="41A.cpp" CONFIG_NAME="41A.cpp">
+      <option name="sourceFile" value="Codeforces/41A.cpp" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
@@ -203,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="C/C++ File.41A.cpp" />
         <item itemvalue="C/C++ File.9A.cpp" />
         <item itemvalue="C/C++ File.318A.cpp" />
         <item itemvalue="C/C++ File.1335A.cpp" />
         <item itemvalue="C/C++ File.1328A.cpp" />
-        <item itemvalue="C/C++ File.236A.cpp" />
       </list>
     </recent_temporary>
   </component>
@@ -233,7 +234,8 @@
       <workItem from="1749902862159" duration="1666000" />
       <workItem from="1750019573409" duration="1046000" />
       <workItem from="1750104627390" duration="707000" />
-      <workItem from="1750183422880" duration="627000" />
+      <workItem from="1750183422880" duration="1312000" />
+      <workItem from="1750277347066" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="Codeforces 50A Domino piling">
       <option name="closed" value="true" />
@@ -307,7 +309,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750019963883</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Codeforces 9A Die Roll">
+      <option name="closed" value="true" />
+      <created>1750184127302</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1750184127302</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,7 +344,8 @@
     <MESSAGE value="Codeforces 236A Boy or Girl" />
     <MESSAGE value="Codeforces 1328A Divisibility Problem" />
     <MESSAGE value="Codeforces 1335A Candies and Two Sisters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Codeforces 1335A Candies and Two Sisters" />
+    <MESSAGE value="Codeforces 9A Die Roll" />
+    <option name="LAST_COMMIT_MESSAGE" value="Codeforces 9A Die Roll" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
