@@ -42,11 +42,11 @@ The platform offers various categories of problems:
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 17              |
+| 800-1199 | 18              |
 | 1200-1599 | 1               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **19**          |
+| **Total** | **20**          |
 
 ## Solved Problems
 
@@ -72,8 +72,8 @@ Here is a list of Codeforces problems I have completed:
 | 318A    | Even Odds               | 900        | [View](./318A.cpp)  |
 | 9A      | Die Roll                | 800        | [View](./9A.cpp)    |
 | 41A     | Translation             | 800        | [View](./41A.cpp)   |
-| 69A     | Young Physicist             | 1000        | [View](./69A.cpp)   |
-
+| 69A     | Young Physicist             | 1000       | [View](./69A.cpp)   |
+| 1154A   | Restoring Three Numbers             | 800        | [View](./1154A.cpp) |
 
 ## My Profile
 
