@@ -42,11 +42,11 @@ The platform offers various categories of problems:
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 18              |
+| 800-1199 | 19              |
 | 1200-1599 | 1               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **20**          |
+| **Total** | **21**          |
 
 ## Solved Problems
 
