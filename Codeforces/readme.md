@@ -74,6 +74,7 @@ Here is a list of Codeforces problems I have completed:
 | 41A     | Translation             | 800        | [View](./41A.cpp)   |
 | 69A     | Young Physicist             | 1000       | [View](./69A.cpp)   |
 | 1154A   | Restoring Three Numbers             | 800        | [View](./1154A.cpp) |
+| 281A    | Word Capitalization             | 800        | [View](./281A.cpp)  |
 
 ## My Profile
 
