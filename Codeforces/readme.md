@@ -42,11 +42,11 @@ The platform offers various categories of problems:
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 19              |
+| 800-1199 | 20              |
 | 1200-1599 | 1               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **21**          |
+| **Total** | **22**          |
 
 ## Solved Problems
 
@@ -75,6 +75,7 @@ Here is a list of Codeforces problems I have completed:
 | 69A     | Young Physicist             | 1000       | [View](./69A.cpp)   |
 | 1154A   | Restoring Three Numbers             | 800        | [View](./1154A.cpp) |
 | 281A    | Word Capitalization             | 800        | [View](./281A.cpp)  |
+| 2094A   | Trippi Troppi             | 800        | [View](./2094A.cpp) |
 
 ## My Profile
 
