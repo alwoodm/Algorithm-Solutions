@@ -42,11 +42,11 @@ The platform offers various categories of problems:
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 20              |
+| 800-1199 | 21              |
 | 1200-1599 | 1               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **22**          |
+| **Total** | **23**          |
 
 ## Solved Problems
 
@@ -76,6 +76,8 @@ Here is a list of Codeforces problems I have completed:
 | 1154A   | Restoring Three Numbers             | 800        | [View](./1154A.cpp) |
 | 281A    | Word Capitalization             | 800        | [View](./281A.cpp)  |
 | 2094A   | Trippi Troppi             | 800        | [View](./2094A.cpp) |
+| 2094B   | Bobritto Bandito             | 800        | [View](./2094B.cpp) |
+
 
 ## My Profile
 
