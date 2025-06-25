@@ -42,11 +42,11 @@ The platform offers various categories of problems:
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 22              |
+| 800-1199 | 23              |
 | 1200-1599 | 1               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **24**          |
+| **Total** | **25**          |
 
 ## Solved Problems
 
@@ -78,6 +78,7 @@ Here is a list of Codeforces problems I have completed:
 | 2094A   | Trippi Troppi             | 800        | [View](./2094A.cpp) |
 | 2094B   | Bobritto Bandito             | 800        | [View](./2094B.cpp) |
 | 2094C   | Brr Brrr Patapim             | 900        | [View](./2094C.cpp) |
+| 263A    | Beautiful Matrix             | 800        | [View](./263A.cpp)  |
 
 ## My Profile
 
