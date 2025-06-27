@@ -42,11 +42,11 @@ The platform offers various categories of problems:
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 24              |
+| 800-1199 | 25              |
 | 1200-1599 | 1               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **26**          |
+| **Total** | **27**          |
 
 ## Solved Problems
 
@@ -72,14 +72,15 @@ Here is a list of Codeforces problems I have completed:
 | 318A    | Even Odds               | 900        | [View](./318A.cpp)  |
 | 9A      | Die Roll                | 800        | [View](./9A.cpp)    |
 | 41A     | Translation             | 800        | [View](./41A.cpp)   |
-| 69A     | Young Physicist             | 1000       | [View](./69A.cpp)   |
-| 1154A   | Restoring Three Numbers             | 800        | [View](./1154A.cpp) |
-| 281A    | Word Capitalization             | 800        | [View](./281A.cpp)  |
-| 2094A   | Trippi Troppi             | 800        | [View](./2094A.cpp) |
-| 2094B   | Bobritto Bandito             | 800        | [View](./2094B.cpp) |
-| 2094C   | Brr Brrr Patapim             | 900        | [View](./2094C.cpp) |
-| 263A    | Beautiful Matrix             | 800        | [View](./263A.cpp)  |
-| 112A    | Petya and Strings             | 800        | [View](./112A.cpp)  |
+| 69A     | Young Physicist         | 1000       | [View](./69A.cpp)   |
+| 1154A   | Restoring Three Numbers | 800        | [View](./1154A.cpp) |
+| 281A    | Word Capitalization     | 800        | [View](./281A.cpp)  |
+| 2094A   | Trippi Troppi           | 800        | [View](./2094A.cpp) |
+| 2094B   | Bobritto Bandito        | 800        | [View](./2094B.cpp) |
+| 2094C   | Brr Brrr Patapim        | 900        | [View](./2094C.cpp) |
+| 263A    | Beautiful Matrix        | 800        | [View](./263A.cpp)  |
+| 112A    | Petya and Strings       | 800        | [View](./112A.cpp)  |
+| 339A    | Helpful Maths           | 800        | [View](./339A.cpp)  |
 
 ## My Profile
 
