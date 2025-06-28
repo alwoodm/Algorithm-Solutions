@@ -42,11 +42,11 @@ The platform offers various categories of problems:
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 25              |
+| 800-1199 | 26              |
 | 1200-1599 | 1               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **27**          |
+| **Total** | **28**          |
 
 ## Solved Problems
 
@@ -81,6 +81,7 @@ Here is a list of Codeforces problems I have completed:
 | 263A    | Beautiful Matrix        | 800        | [View](./263A.cpp)  |
 | 112A    | Petya and Strings       | 800        | [View](./112A.cpp)  |
 | 339A    | Helpful Maths           | 800        | [View](./339A.cpp)  |
+| 118A    | String Task           | 1000       | [View](./118A.cpp)  |
 
 ## My Profile
 
