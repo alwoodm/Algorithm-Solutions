@@ -42,11 +42,11 @@ The platform offers various categories of problems:
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 27              |
+| 800-1199 | 28              |
 | 1200-1599 | 1               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **29**          |
+| **Total** | **30**          |
 
 ## Solved Problems
 
@@ -83,6 +83,7 @@ Here is a list of Codeforces problems I have completed:
 | 339A    | Helpful Maths           | 800        | [View](./339A.cpp)  |
 | 118A    | String Task           | 1000       | [View](./118A.cpp)  |
 | 791A    | Bear and Big Brother           | 800        | [View](./791A.cpp)  |
+| 58A     | Chat room           | 1000       | [View](./58A.cpp)   |
 
 ## My Profile
 
