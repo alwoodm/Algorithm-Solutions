@@ -42,11 +42,11 @@ The platform offers various categories of problems:
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 32              |
+| 800-1199 | 33              |
 | 1200-1599 | 1               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **34**          |
+| **Total** | **35**          |
 
 ## Solved Problems
 
@@ -88,6 +88,7 @@ Here is a list of Codeforces problems I have completed:
 | 266A    | Stones on the Table           | 800        | [View](./266A.cpp)  |
 | 96A     | Football           | 900        | [View](./96A.cpp)   |
 | 110A    | Nearly Lucky Number           | 800        | [View](./110A.cpp)  |
+| 977A    | Wrong Subtraction           | 800        | [View](./977A.cpp)  |
 
 ## My Profile
 
