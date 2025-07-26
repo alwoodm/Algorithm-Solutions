@@ -42,11 +42,11 @@ The platform offers various categories of problems:
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 34              |
+| 800-1199 | 35              |
 | 1200-1599 | 1               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **36**          |
+| **Total** | **37**          |
 
 ## Solved Problems
 
@@ -90,6 +90,7 @@ Here is a list of Codeforces problems I have completed:
 | 110A    | Nearly Lucky Number           | 800        | [View](./110A.cpp)  |
 | 977A    | Wrong Subtraction           | 800        | [View](./977A.cpp)  |
 | 546A    | Soldier and Bananas           | 800        | [View](./546A.cpp)  |
+| 1669A   | Division?           | 800        | [View](./1669A.cpp) |
 
 ## My Profile
 
