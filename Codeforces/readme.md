@@ -42,57 +42,58 @@ The platform offers various categories of problems:
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 37              |
+| 800-1199 | 38              |
 | 1200-1599 | 1               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **39**          |
+| **Total** | **40**          |
 
 ## Solved Problems
 
 Here is a list of Codeforces problems I have completed:
 
-| Problem | Name                   | Difficulty | Solution Link        |
-|---------|------------------------|------------|----------------------|
-| 4A      | Watermelon             | 800        | [View](./4A.cpp)     |
-| 71A     | Way Too Long Words     | 800        | [View](./71A.cpp)    |
-| 231A    | Team                   | 800        | [View](./231A.cpp)   |
-| 282A    | Bit++                  | 800        | [View](./282A.cpp)   |
-| 158A    | Next Round             | 800        | [View](./158A.cpp)   |
-| 50A     | Domino piling          | 800        | [View](./50A.cpp)    |
-| 466A    | Cheap Travel           | 1200       | [View](./466A.cpp)   |
-| 617A    | Elephant               | 800        | [View](./617A.cpp)   |
-| 200B    | Drinks                 | 800        | [View](./200B.cpp)   |
-| 59A     | Word                   | 800        | [View](./59A.cpp)    |
-| 1A      | Theatre Square         | 1000       | [View](./1A.cpp)     |
-| 1B      | Spreadsheets           | 1600       | [View](./1B.cpp)     |
-| 236A    | Boy or Girl            | 800        | [View](./236A.cpp)   |
-| 1328A   | Divisibility Problem   | 800        | [View](./1328A.cpp)  |
-| 1335A   | Candies and Two Sisters | 800        | [View](./1335A.cpp)  |
-| 318A    | Even Odds              | 900        | [View](./318A.cpp)   |
-| 9A      | Die Roll               | 800        | [View](./9A.cpp)     |
-| 41A     | Translation            | 800        | [View](./41A.cpp)    |
-| 69A     | Young Physicist        | 1000       | [View](./69A.cpp)    |
-| 1154A   | Restoring Three Numbers | 800        | [View](./1154A.cpp)  |
-| 281A    | Word Capitalization    | 800        | [View](./281A.cpp)   |
-| 2094A   | Trippi Troppi          | 800        | [View](./2094A.cpp)  |
-| 2094B   | Bobritto Bandito       | 800        | [View](./2094B.cpp)  |
-| 2094C   | Brr Brrr Patapim       | 900        | [View](./2094C.cpp)  |
-| 263A    | Beautiful Matrix       | 800        | [View](./263A.cpp)   |
-| 112A    | Petya and Strings      | 800        | [View](./112A.cpp)   |
-| 339A    | Helpful Maths          | 800        | [View](./339A.cpp)   |
-| 118A    | String Task          | 1000       | [View](./118A.cpp)   |
-| 791A    | Bear and Big Brother          | 800        | [View](./791A.cpp)   |
-| 58A     | Chat room          | 1000       | [View](./58A.cpp)    |
-| 486A    | Calculating Function          | 800        | [View](./486A.cpp)   |
-| 266A    | Stones on the Table          | 800        | [View](./266A.cpp)   |
-| 96A     | Football          | 900        | [View](./96A.cpp)    |
-| 110A    | Nearly Lucky Number          | 800        | [View](./110A.cpp)   |
-| 977A    | Wrong Subtraction          | 800        | [View](./977A.cpp)   |
-| 546A    | Soldier and Bananas          | 800        | [View](./546A.cpp)   |
-| 1669A   | Division?          | 800        | [View](./1669A.cpp)  |
-| 1772A   | A+B           | 800        | [View](`./1772A.cpp) |
-| 344A    | Magnets           | 800        | [View](`./344A.cpp)  |
+| Problem | Name                   | Difficulty | Solution Link       |
+|---------|------------------------|------------|---------------------|
+| 4A      | Watermelon             | 800        | [View](./4A.cpp)    |
+| 71A     | Way Too Long Words     | 800        | [View](./71A.cpp)   |
+| 231A    | Team                   | 800        | [View](./231A.cpp)  |
+| 282A    | Bit++                  | 800        | [View](./282A.cpp)  |
+| 158A    | Next Round             | 800        | [View](./158A.cpp)  |
+| 50A     | Domino piling          | 800        | [View](./50A.cpp)   |
+| 466A    | Cheap Travel           | 1200       | [View](./466A.cpp)  |
+| 617A    | Elephant               | 800        | [View](./617A.cpp)  |
+| 200B    | Drinks                 | 800        | [View](./200B.cpp)  |
+| 59A     | Word                   | 800        | [View](./59A.cpp)   |
+| 1A      | Theatre Square         | 1000       | [View](./1A.cpp)    |
+| 1B      | Spreadsheets           | 1600       | [View](./1B.cpp)    |
+| 236A    | Boy or Girl            | 800        | [View](./236A.cpp)  |
+| 1328A   | Divisibility Problem   | 800        | [View](./1328A.cpp) |
+| 1335A   | Candies and Two Sisters | 800        | [View](./1335A.cpp) |
+| 318A    | Even Odds              | 900        | [View](./318A.cpp)  |
+| 9A      | Die Roll               | 800        | [View](./9A.cpp)    |
+| 41A     | Translation            | 800        | [View](./41A.cpp)   |
+| 69A     | Young Physicist        | 1000       | [View](./69A.cpp)   |
+| 1154A   | Restoring Three Numbers | 800        | [View](./1154A.cpp) |
+| 281A    | Word Capitalization    | 800        | [View](./281A.cpp)  |
+| 2094A   | Trippi Troppi          | 800        | [View](./2094A.cpp) |
+| 2094B   | Bobritto Bandito       | 800        | [View](./2094B.cpp) |
+| 2094C   | Brr Brrr Patapim       | 900        | [View](./2094C.cpp) |
+| 263A    | Beautiful Matrix       | 800        | [View](./263A.cpp)  |
+| 112A    | Petya and Strings      | 800        | [View](./112A.cpp)  |
+| 339A    | Helpful Maths          | 800        | [View](./339A.cpp)  |
+| 118A    | String Task          | 1000       | [View](./118A.cpp)  |
+| 791A    | Bear and Big Brother          | 800        | [View](./791A.cpp)  |
+| 58A     | Chat room          | 1000       | [View](./58A.cpp)   |
+| 486A    | Calculating Function          | 800        | [View](./486A.cpp)  |
+| 266A    | Stones on the Table          | 800        | [View](./266A.cpp)  |
+| 96A     | Football          | 900        | [View](./96A.cpp)   |
+| 110A    | Nearly Lucky Number          | 800        | [View](./110A.cpp)  |
+| 977A    | Wrong Subtraction          | 800        | [View](./977A.cpp)  |
+| 546A    | Soldier and Bananas          | 800        | [View](./546A.cpp)  |
+| 1669A   | Division?          | 800        | [View](./1669A.cpp) |
+| 1772A   | A+B           | 800        | [View](./1772A.cpp) |
+| 344A    | Magnets           | 800        | [View](./344A.cpp)  |
+| 734A    | Anton and Danik           | 800        | [View](./734A.cpp)  |
 
 ## My Profile
 
