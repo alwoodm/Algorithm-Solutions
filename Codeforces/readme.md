@@ -42,11 +42,11 @@ The platform offers various categories of problems:
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 39              |
+| 800-1199 | 40              |
 | 1200-1599 | 1               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **41**          |
+| **Total** | **42**          |
 
 ## Solved Problems
 
@@ -95,6 +95,7 @@ Here is a list of Codeforces problems I have completed:
 | 344A    | Magnets           | 800        | [View](./344A.cpp)  |
 | 734A    | Anton and Danik           | 800        | [View](./734A.cpp)  |
 | 2126A   | Only One Digit           | 800        | [View](./2126A.cpp) |
+| 677A    | Vanya and Fence           | 800        | [View](./677A.cpp)  |
 
 ## My Profile
 
