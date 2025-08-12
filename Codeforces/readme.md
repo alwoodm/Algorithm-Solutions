@@ -43,10 +43,10 @@ The platform offers various categories of problems:
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
 | 800-1199 | 44              |
-| 1200-1599 | 1               |
+| 1200-1599 | 2               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **46**          |
+| **Total** | **47**          |
 
 ## Solved Problems
 
@@ -100,6 +100,7 @@ Here is a list of Codeforces problems I have completed:
 | 271A    | Beautiful Year           | 800        | [View](./271A.cpp)  |
 | 1030A   | In Search of an Easy Problem           | 800        | [View](./1030A.cpp) |
 | 160A    | Twins           | 900        | [View](./160A.cpp)  |
+| 4C      | Registration system           | 1300       | [View](./4C.cpp)    |
 
 ## My Profile
 
