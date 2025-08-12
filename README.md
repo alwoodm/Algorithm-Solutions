@@ -5,8 +5,6 @@
 ## Overview
 
 This repository is a collection of my solutions to algorithmic challenges from platforms such as:
-- LeetCode 
-- Szkopul
 - Codeforces
 
 All solutions and documentation are provided in English.
