@@ -43,10 +43,10 @@ The platform offers various categories of problems:
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
 | 800-1199 | 48              |
-| 1200-1599 | 2               |
+| 1200-1599 | 3               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **51**          |
+| **Total** | **52**          |
 
 ## Solved Problems
 
@@ -105,6 +105,8 @@ Here is a list of Codeforces problems I have completed:
 | 61A      | Ultra-Fast Mathematician           | 800        | [View](./61A.cpp)    |
 | 479A      | Expression           | 1000       | [View](./479A.cpp)    |
 | 122A      | Lucky Division           | 1000       | [View](./122A.cpp)    |
+| 122A      | Lucky Division           | 1000       | [View](./122A.cpp)    |
+| 25A      | IQ test           | 1300       | [View](./25A.cpp)    |
 
 ## My Profile
 
