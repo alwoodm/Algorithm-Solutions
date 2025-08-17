@@ -42,11 +42,11 @@ The platform offers various categories of problems:
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 48              |
+| 800-1199 | 49              |
 | 1200-1599 | 3               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **52**          |
+| **Total** | **53**          |
 
 ## Solved Problems
 
@@ -101,12 +101,13 @@ Here is a list of Codeforces problems I have completed:
 | 1030A   | In Search of an Easy Problem           | 800        | [View](./1030A.cpp) |
 | 160A    | Twins           | 900        | [View](./160A.cpp)  |
 | 4C      | Registration system           | 1300       | [View](./4C.cpp)    |
-| 136A      | Presents           | 800        | [View](./136A.cpp)    |
-| 61A      | Ultra-Fast Mathematician           | 800        | [View](./61A.cpp)    |
-| 479A      | Expression           | 1000       | [View](./479A.cpp)    |
-| 122A      | Lucky Division           | 1000       | [View](./122A.cpp)    |
-| 122A      | Lucky Division           | 1000       | [View](./122A.cpp)    |
-| 25A      | IQ test           | 1300       | [View](./25A.cpp)    |
+| 136A    | Presents           | 800        | [View](./136A.cpp)  |
+| 61A     | Ultra-Fast Mathematician           | 800        | [View](./61A.cpp)   |
+| 479A    | Expression           | 1000       | [View](./479A.cpp)  |
+| 122A    | Lucky Division           | 1000       | [View](./122A.cpp)  |
+| 122A    | Lucky Division           | 1000       | [View](./122A.cpp)  |
+| 25A     | IQ test           | 1300       | [View](./25A.cpp)   |
+| 133A    | HQ9+           | 900        | [View](./133A.cpp)  |
 
 ## My Profile
 
