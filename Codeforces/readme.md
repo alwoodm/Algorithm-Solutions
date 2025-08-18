@@ -42,11 +42,11 @@ The platform offers various categories of problems:
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 49              |
+| 800-1199 | 50              |
 | 1200-1599 | 3               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **53**          |
+| **Total** | **54**          |
 
 ## Solved Problems
 
@@ -108,6 +108,7 @@ Here is a list of Codeforces problems I have completed:
 | 122A    | Lucky Division           | 1000       | [View](./122A.cpp)  |
 | 25A     | IQ test           | 1300       | [View](./25A.cpp)   |
 | 133A    | HQ9+           | 900        | [View](./133A.cpp)  |
+| 467A    | George and Accommodation           | 800        | [View](./467A.cpp)  |
 
 ## My Profile
 
