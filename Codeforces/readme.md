@@ -42,11 +42,11 @@ The platform offers various categories of problems:
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 53              |
+| 800-1199 | 54              |
 | 1200-1599 | 3               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **57**          |
+| **Total** | **58**          |
 
 ## Solved Problems
 
@@ -112,6 +112,7 @@ Here is a list of Codeforces problems I have completed:
 | 208A    | Dubstep           | 900        | [View](./208A.cpp)  |
 | 158B    | Taxi           | 1100       | [View](./158B.cpp)  |
 | 131A    | cAPS lOCK            | 1000       | [View](./131A.cpp)  |
+| 996A    | Hit the Lottery             | 800        | [View](./996A.cpp)  |
 
 ## My Profile
 
