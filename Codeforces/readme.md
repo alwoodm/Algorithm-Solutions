@@ -42,11 +42,11 @@ The platform offers various categories of problems:
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 55              |
+| 800-1199 | 56              |
 | 1200-1599 | 3               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **59**          |
+| **Total** | **60**          |
 
 ## Solved Problems
 
@@ -114,6 +114,7 @@ Here is a list of Codeforces problems I have completed:
 | 131A    | cAPS lOCK           | 1000       | [View](./131A.cpp)  |
 | 996A    | Hit the Lottery            | 800        | [View](./996A.cpp)  |
 | 1742A    | Sum             | 800        | [View](./1742A.cpp) |
+| 705A    | Hulk             | 800        | [View](./705A.cpp) |
 
 ## My Profile
 
