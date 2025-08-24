@@ -6,6 +6,7 @@
 
 This repository is a collection of my solutions to algorithmic challenges from platforms such as:
 - Codeforces
+- Szkopuł
 
 All solutions and documentation are provided in English.
 
@@ -15,12 +16,15 @@ Solutions are organized by platform and then by problem identifier:
 
 ```
 /
-├── LeetCode/
-│   ├── 001-two-sum/
-│   ├── 002-add-two-numbers/
+├── Codeforces/
+│   ├── 4A.cpp
+│   ├── 71A.cpp
+│   ├── 231A.cpp
+│   ├── readme.md
 │   └── ...
-├── HackerRank/
-│   ├── 001-solve-me-first/
+├── Szkopul/
+│   ├── pti/
+│   ├── readme.md
 │   └── ...
 └── ...
 ```
