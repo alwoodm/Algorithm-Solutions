@@ -42,11 +42,11 @@ The platform offers various categories of problems:
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 57              |
+| 800-1199 | 58              |
 | 1200-1599 | 3               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **61**          |
+| **Total** | **62**          |
 
 ## Solved Problems
 
@@ -116,6 +116,7 @@ Here is a list of Codeforces problems I have completed:
 | 1742A    | Sum             | 800        | [View](./1742A.cpp) |
 | 705A    | Hulk             | 800        | [View](./705A.cpp) |
 | 520A    | Pangram             | 800        | [View](./520A.cpp) |
+| 268A    | Games             | 800        | [View](./268A.cpp) |
 
 ## My Profile
 
