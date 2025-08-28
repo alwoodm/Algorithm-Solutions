@@ -42,11 +42,11 @@ The platform offers various categories of problems:
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 60              |
+| 800-1199 | 61              |
 | 1200-1599 | 3               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **64**          |
+| **Total** | **65**          |
 
 ## Solved Problems
 
@@ -119,6 +119,7 @@ Here is a list of Codeforces problems I have completed:
 | 268A    | Games                        | 800        | [View](./268A.cpp)  |
 | 2134A   | Painting With Two Colors     | -          | [View](./2134A.cpp) |
 | 2136A   | In the Dream                 | -          | [View](./2136A.cpp) |
+| 2136B   | Like the Bitset                 | -          | [View](./2136B.cpp) |
 
 ## My Profile
 
