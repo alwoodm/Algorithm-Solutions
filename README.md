@@ -28,6 +28,11 @@ Solutions are organized by platform and then by problem identifier:
 │   ├── pti/
 │   ├── readme.md
 │   └── ...
+├── Leetcode/
+│   ├── 1.py
+│   ├── 2.py
+│   ├── readme.md
+│   └── ...
 └── ...
 ```
 
