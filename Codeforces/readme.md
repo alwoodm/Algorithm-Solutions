@@ -4,16 +4,6 @@
 
 Codeforces is one of the world's largest international competitive programming platforms. Created in Russia, the platform serves as a hub for programmers from around the globe who want to develop their algorithmic skills and participate in programming competitions.
 
-## Key Features
-
-- **International Reach**: The world's largest training platform for competitive programming
-- **Regular Contests**: Organizes the largest regular online programming competitions
-- **Rating System**: Advanced user rating system with division into different skill levels
-- **Community**: Active community with blogs, discussions, and experience sharing
-- **Polygon System**: Advanced system for creating and managing problems
-- **Education**: Platform also offers educational materials and programming courses
-
-
 ## Difficulty Levels
 
 Codeforces uses a problem rating system from 800 to 3500+ points:
@@ -23,30 +13,15 @@ Codeforces uses a problem rating system from 800 to 3500+ points:
 - **1600-2100**: Advanced level
 - **2100+**: Expert level
 
-
-## Problem Types
-
-The platform offers various categories of problems:
-
-- Mathematical algorithmic challenges
-- Data structures
-- Dynamic programming
-- Graph algorithms
-- Number theory
-- Combinatorics
-- String algorithms
-- Computational geometry
-
-
 ## Stats
 
 | Difficulty Range | Problems Solved |
 | :-- |:----------------|
-| 800-1199 | 62              |
+| 800-1199 | 63              |
 | 1200-1599 | 3               |
 | 1600-1999 | 1               |
 | 2000+ | 0               |
-| **Total** | **66**          |
+| **Total** | **67**          |
 
 ## Solved Problems
 
@@ -119,8 +94,9 @@ Here is a list of Codeforces problems I have completed:
 | 268A    | Games                        | 800        | [View](./268A.cpp)  |
 | 2134A   | Painting With Two Colors     | -          | [View](./2134A.cpp) |
 | 2136A   | In the Dream                 | -          | [View](./2136A.cpp) |
-| 2136B   | Like the Bitset                 | -          | [View](./2136B.cpp) |
-| 266B   | Queue at the School                 | 800        | [View](./266B.cpp) |
+| 2136B   | Like the Bitset                | -          | [View](./2136B.cpp) |
+| 266B   | Queue at the School                | 800        | [View](./266B.cpp) |
+| 405A   | Gravity Flip                 | 900        | [View](./405A.cpp) |
 
 ## My Profile
 
