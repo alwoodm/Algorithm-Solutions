@@ -17,11 +17,11 @@ Codeforces uses a problem rating system from 800 to 3500+ points:
 
 | Difficulty Range | Problems Solved |
 |:-----------------|:----------------|
-| 800-1199         | 64              |
+| 800-1199         | 65              |
 | 1200-1599        | 3               |
 | 1600-1999        | 1               |
 | 2000+            | 0               |
-| **Total**        | **68**          |
+| **Total**        | **69**          |
 
 ## Solved Problems
 
@@ -92,12 +92,13 @@ Here is a list of Codeforces problems I have completed:
 | 705A    | Hulk                                 | 800        | [View](./705A.cpp)  |
 | 520A    | Pangram                              | 800        | [View](./520A.cpp)  |
 | 268A    | Games                                | 800        | [View](./268A.cpp)  |
-| 2134A   | Painting With Two Colors             | -          | [View](./2134A.cpp) |
+| 2134A   | Painting With Two Colors             | 800        | [View](./2134A.cpp) |
 | 2136A   | In the Dream                         | -          | [View](./2136A.cpp) |
 | 2136B   | Like the Bitset                      | -          | [View](./2136B.cpp) |
 | 266B    | Queue at the School                  | 800        | [View](./266B.cpp)  |
 | 405A    | Gravity Flip                         | 900        | [View](./405A.cpp)  |
 | 228A    | Is your horseshoe on the other hoof? | 800        | [View](./228A.cpp)  |
+| 580A    | Kefa and First Steps                 | 900        | [View](./580A.cpp)  |
 
 ## My Profile
 
