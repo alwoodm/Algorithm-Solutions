@@ -17,11 +17,11 @@ Codeforces uses a problem rating system from 800 to 3500+ points:
 
 | Difficulty Range | Problems Solved |
 |:-----------------|:----------------|
-| 800-1199         | 65              |
+| 800-1199         | 66              |
 | 1200-1599        | 3               |
 | 1600-1999        | 1               |
 | 2000+            | 0               |
-| **Total**        | **69**          |
+| **Total**        | **70**          |
 
 ## Solved Problems
 
@@ -99,6 +99,7 @@ Here is a list of Codeforces problems I have completed:
 | 405A    | Gravity Flip                         | 900        | [View](./405A.cpp)  |
 | 228A    | Is your horseshoe on the other hoof? | 800        | [View](./228A.cpp)  |
 | 580A    | Kefa and First Steps                 | 900        | [View](./580A.cpp)  |
+| 148A    | Insomnia cure                        | 800        | [View](./148A.cpp)  |
 
 ## My Profile
 
