@@ -17,11 +17,11 @@ Codeforces uses a problem rating system from 800 to 3500+ points:
 
 | Difficulty Range | Problems Solved |
 |:-----------------|:----------------|
-| 800-1199         | 69              |
+| 800-1199         | 70              |
 | 1200-1599        | 3               |
 | 1600-1999        | 1               |
 | 2000+            | 0               |
-| **Total**        | **73**          |
+| **Total**        | **74**          |
 
 ## Solved Problems
 
@@ -103,6 +103,7 @@ Here is a list of Codeforces problems I have completed:
 | 469A    | I Wanna Be the Guy                   | 800        | [View](./469A.cpp)  |
 | 510A    | Fox And Snake                        | 800        | [View](./510A.cpp)  |
 | 1352A   | Sum of Round Numbers                 | 800        | [View](./1352A.cpp) |
+| 1676A   | Lucky?                               | 800        | [View](./1676A.cpp) |
 
 ## My Profile
 
