@@ -17,11 +17,11 @@ Codeforces uses a problem rating system from 800 to 3500+ points:
 
 | Difficulty Range | Problems Solved |
 |:-----------------|:----------------|
-| 800-1199         | 71              |
+| 800-1199         | 72              |
 | 1200-1599        | 3               |
 | 1600-1999        | 1               |
 | 2000+            | 0               |
-| **Total**        | **75**          |
+| **Total**        | **76**          |
 
 ## Solved Problems
 
@@ -105,6 +105,7 @@ Here is a list of Codeforces problems I have completed:
 | 1352A   | Sum of Round Numbers                 | 800        | [View](./1352A.cpp) |
 | 1676A   | Lucky?                               | 800        | [View](./1676A.cpp) |
 | 2137A   | Collatz Conjecture                   | -          | [View](./2137A.cpp) |
+| 581A    | Vasya the Hipster                    | 800        | [View](./581A.cpp)  |
 
 ## My Profile
 
