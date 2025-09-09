@@ -17,11 +17,11 @@ Codeforces uses a problem rating system from 800 to 3500+ points:
 
 | Difficulty Range | Problems Solved |
 |:-----------------|:----------------|
-| 800-1199         | 73              |
+| 800-1199         | 74              |
 | 1200-1599        | 3               |
 | 1600-1999        | 1               |
 | 2000+            | 0               |
-| **Total**        | **77**          |
+| **Total**        | **78**          |
 
 ## Solved Problems
 
@@ -107,6 +107,7 @@ Here is a list of Codeforces problems I have completed:
 | 2137A   | Collatz Conjecture                   | -          | [View](./2137A.cpp) |
 | 581A    | Vasya the Hipster                    | 800        | [View](./581A.cpp)  |
 | 2140A   | Shift Sort                           | -          | [View](./2140A.cpp) |
+| 2140B   | Another Divisibility Problem         | -          | [View](./2140B.cpp) |
 
 ## My Profile
 
