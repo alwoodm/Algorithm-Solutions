@@ -17,11 +17,11 @@ Codeforces uses a problem rating system from 800 to 3500+ points:
 
 | Difficulty Range | Problems Solved |
 |:-----------------|:----------------|
-| 800-1199         | 74              |
+| 800-1199         | 75              |
 | 1200-1599        | 3               |
 | 1600-1999        | 1               |
 | 2000+            | 0               |
-| **Total**        | **78**          |
+| **Total**        | **79**          |
 
 ## Solved Problems
 
@@ -108,6 +108,7 @@ Here is a list of Codeforces problems I have completed:
 | 581A    | Vasya the Hipster                    | 800        | [View](./581A.cpp)  |
 | 2140A   | Shift Sort                           | -          | [View](./2140A.cpp) |
 | 2140B   | Another Divisibility Problem         | -          | [View](./2140B.cpp) |
+| 1374B   | Multiply by 2, divide by 6           | 900        | [View](./1374B.cpp) |
 
 ## My Profile
 
