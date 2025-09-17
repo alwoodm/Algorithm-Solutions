@@ -17,11 +17,11 @@ Codeforces uses a problem rating system from 800 to 3500+ points:
 
 | Difficulty Range | Problems Solved |
 |:-----------------|:----------------|
-| 800-1199         | 77              |
+| 800-1199         | 78              |
 | 1200-1599        | 3               |
 | 1600-1999        | 1               |
 | 2000+            | 0               |
-| **Total**        | **81**          |
+| **Total**        | **82**          |
 
 ## Solved Problems
 
@@ -111,6 +111,7 @@ Here is a list of Codeforces problems I have completed:
 | 1374B   | Multiply by 2, divide by 6           | 900        | [View](./1374B.cpp) |
 | 1899A   | Game with Integers                   | 800        | [View](./1899A.cpp) |
 | 2143A   | All Lengths Subtraction              | -          | [View](./2143A.cpp) |
+| 2143B   | Discounts                            | -          | [View](./2143B.cpp) |
 
 ## My Profile
 
