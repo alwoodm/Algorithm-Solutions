@@ -18,10 +18,10 @@ Codeforces uses a problem rating system from 800 to 3500+ points:
 | Difficulty Range | Problems Solved |
 |:-----------------|:----------------|
 | 800-1199         | 79              |
-| 1200-1599        | 3               |
+| 1200-1599        | 4               |
 | 1600-1999        | 1               |
 | 2000+            | 0               |
-| **Total**        | **83**          |
+| **Total**        | *84*            |
 
 ## Solved Problems
 
@@ -93,8 +93,8 @@ Here is a list of Codeforces problems I have completed:
 | 520A    | Pangram                              | 800        | [View](./520A.cpp)  |
 | 268A    | Games                                | 800        | [View](./268A.cpp)  |
 | 2134A   | Painting With Two Colors             | 800        | [View](./2134A.cpp) |
-| 2136A   | In the Dream                         | -          | [View](./2136A.cpp) |
-| 2136B   | Like the Bitset                      | -          | [View](./2136B.cpp) |
+| 2136A   | In the Dream                         | 800        | [View](./2136A.cpp) |
+| 2136B   | Like the Bitset                      | 900        | [View](./2136B.cpp) |
 | 266B    | Queue at the School                  | 800        | [View](./266B.cpp)  |
 | 405A    | Gravity Flip                         | 900        | [View](./405A.cpp)  |
 | 228A    | Is your horseshoe on the other hoof? | 800        | [View](./228A.cpp)  |
@@ -104,15 +104,16 @@ Here is a list of Codeforces problems I have completed:
 | 510A    | Fox And Snake                        | 800        | [View](./510A.cpp)  |
 | 1352A   | Sum of Round Numbers                 | 800        | [View](./1352A.cpp) |
 | 1676A   | Lucky?                               | 800        | [View](./1676A.cpp) |
-| 2137A   | Collatz Conjecture                   | -          | [View](./2137A.cpp) |
+| 2137A   | Collatz Conjecture                   | 800        | [View](./2137A.cpp) |
 | 581A    | Vasya the Hipster                    | 800        | [View](./581A.cpp)  |
-| 2140A   | Shift Sort                           | -          | [View](./2140A.cpp) |
-| 2140B   | Another Divisibility Problem         | -          | [View](./2140B.cpp) |
+| 2140A   | Shift Sort                           | 800        | [View](./2140A.cpp) |
+| 2140B   | Another Divisibility Problem         | 900        | [View](./2140B.cpp) |
 | 1374B   | Multiply by 2, divide by 6           | 900        | [View](./1374B.cpp) |
 | 1899A   | Game with Integers                   | 800        | [View](./1899A.cpp) |
-| 2143A   | All Lengths Subtraction              | -          | [View](./2143A.cpp) |
-| 2143B   | Discounts                            | -          | [View](./2143B.cpp) |
-| 2146A   | Equal Occurrences                    | -          | [View](./2146A.cpp) |
+| 2143A   | All Lengths Subtraction              | 800        | [View](./2143A.cpp) |
+| 2143B   | Discounts                            | 1000       | [View](./2143B.cpp) |
+| 2146A   | Equal Occurrences                    | 800        | [View](./2146A.cpp) |
+| 977C    | Less or Equal                        | 1200       | [View](./977C.cpp)  |
 
 ## My Profile
 
