@@ -17,11 +17,11 @@ Codeforces uses a problem rating system from 800 to 3500+ points:
 
 | Difficulty Range | Problems Solved |
 |:-----------------|:----------------|
-| 800-1199         | 80              |
+| 800-1199         | 81              |
 | 1200-1599        | 4               |
 | 1600-1999        | 1               |
 | 2000+            | 0               |
-| **Total**        | *85*            |
+| **Total**        | *86*            |
 
 ## Solved Problems
 
@@ -115,6 +115,7 @@ Here is a list of Codeforces problems I have completed:
 | 2146A   | Equal Occurrences                    | 800        | [View](./2146A.cpp) |
 | 977C    | Less or Equal                        | 1200       | [View](./977C.cpp)  |
 | 2157A   | Dungeon Equilibrium                  | x          | [View](./2157A.cpp) |
+| 2157B   | Expansion Plan 2                     | x          | [View](./2157B.cpp) |
 
 ## My Profile
 
