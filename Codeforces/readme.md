@@ -117,6 +117,9 @@ Here is a list of Codeforces problems I have completed:
 | 2157A   | Dungeon Equilibrium                  | x          | [View](./2157A.cpp) |
 | 2157B   | Expansion Plan 2                     | x          | [View](./2157B.cpp) |
 | 2157C   | Meximum Array 2                      | x          | [View](./2157C.cpp) |
+| 2210A   | A Simple Sequence                    | x          | [View](./2210A.cpp) |
+| 2210B   | Simply Sitting on Chairs             | x          | [View](./2210B.cpp) |
+| 2210C1  | A Simple GCD Problem (Easy Version)  | x          | [View](./2210C1.cpp) |
 
 ## My Profile
 
