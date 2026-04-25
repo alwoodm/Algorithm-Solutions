@@ -17,12 +17,12 @@ Codeforces uses a problem rating system from 800 to 3500+ points:
 
 | Difficulty Range | Problems Solved |
 |:-----------------|:----------------|
-| 800-1199         | 84              |
+| 800-1199         | 85              |
 | 1200-1599        | 5               |
 | 1600-1999        | 1               |
 | 2000+            | 0               |
 | Unrated          | 4               |
-| **Total**        | *94*            |
+| **Total**        | *95*            |
 
 ## Solved Problems
 
@@ -121,6 +121,7 @@ Here is a list of Codeforces problems I have completed:
 | 2210B   | Simply Sitting on Chairs             | unrated    | [View](./2210B.cpp)  |
 | 2210C1  | A Simple GCD Problem (Easy Version)  | unrated    | [View](./2210C1.cpp) |
 | 2218A   | The 67th Integer Problem             | unrated    | [View](./2218A.cpp)  |
+| 1055A   | Metro                                | 900        | [View](./1055A.cpp)  |
 
 ## My Profile
 
