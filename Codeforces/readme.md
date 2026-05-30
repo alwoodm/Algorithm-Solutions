@@ -17,12 +17,11 @@ Codeforces uses a problem rating system from 800 to 3500+ points:
 
 | Difficulty Range | Problems Solved |
 |:-----------------|:----------------|
-| 800-1199         | 85              |
-| 1200-1599        | 5               |
+| 800-1199         | 86              |
+| 1200-1599        | 6               |
 | 1600-1999        | 1               |
 | 2000+            | 0               |
-| Unrated          | 4               |
-| **Total**        | *95*            |
+| **Total**        | *93*            |
 
 ## Solved Problems
 
@@ -117,11 +116,12 @@ Here is a list of Codeforces problems I have completed:
 | 2157A   | Dungeon Equilibrium                  | 800        | [View](./2157A.cpp)  |
 | 2157B   | Expansion Plan 2                     | 900        | [View](./2157B.cpp)  |
 | 2157C   | Meximum Array 2                      | 1400       | [View](./2157C.cpp)  |
-| 2210A   | A Simple Sequence                    | unrated    | [View](./2210A.cpp)  |
-| 2210B   | Simply Sitting on Chairs             | unrated    | [View](./2210B.cpp)  |
-| 2210C1  | A Simple GCD Problem (Easy Version)  | unrated    | [View](./2210C1.cpp) |
-| 2218A   | The 67th Integer Problem             | unrated    | [View](./2218A.cpp)  |
+| 2210A   | A Simple Sequence                    | 800        | [View](./2210A.cpp)  |
+| 2210B   | Simply Sitting on Chairs             | 900        | [View](./2210B.cpp)  |
+| 2210C1  | A Simple GCD Problem (Easy Version)  | 1200       | [View](./2210C1.cpp) |
+| 2218A   | The 67th Integer Problem             | 800        | [View](./2218A.cpp)  |
 | 1055A   | Metro                                | 900        | [View](./1055A.cpp)  |
+| 2230A   | Optimal Purchase                     | 800        | [View](./2230A.cpp)  |
 
 ## My Profile
 
