@@ -17,11 +17,11 @@ Codeforces uses a problem rating system from 800 to 3500+ points:
 
 | Difficulty Range | Problems Solved |
 |:-----------------|:----------------|
-| 800-1199         | 87              |
+| 800-1199         | 88              |
 | 1200-1599        | 6               |
 | 1600-1999        | 1               |
 | 2000+            | 0               |
-| **Total**        | *94*            |
+| **Total**        | *95*            |
 
 ## Solved Problems
 
@@ -123,6 +123,7 @@ Here is a list of Codeforces problems I have completed:
 | 1055A   | Metro                                | 900        | [View](./1055A.cpp)  |
 | 2230A   | Optimal Purchase                     | 800        | [View](./2230A.cpp)  |
 | 785A    | Anton and Polyhedrons                | 800        | [View](./785A.cpp)   |
+| 2229A   | Slimes on a Line                     | 800        | [View](./2229A.cpp)  |
 
 ## My Profile
 
