@@ -17,11 +17,11 @@ Codeforces uses a problem rating system from 800 to 3500+ points:
 
 | Difficulty Range | Problems Solved |
 |:-----------------|:----------------|
-| 800-1199         | 89              |
+| 800-1199         | 91              |
 | 1200-1599        | 6               |
 | 1600-1999        | 1               |
 | 2000+            | 0               |
-| **Total**        | *96*            |
+| **Total**        | *98*            |
 
 ## Solved Problems
 
@@ -125,6 +125,8 @@ Here is a list of Codeforces problems I have completed:
 | 785A    | Anton and Polyhedrons                | 800        | [View](./785A.cpp)   |
 | 2229A   | Slimes on a Line                     | 800        | [View](./2229A.cpp)  |
 | 2231A   | Construct an Array                   | 800        | [View](./2231A.cpp)  |
+| 2242A   | Bigrams                              | x          | [View](./2242A.cpp)  |
+| 2242B   | Predominant Frequency Division       | x          | [View](./2242B.cpp)  |
 
 ## My Profile
 
