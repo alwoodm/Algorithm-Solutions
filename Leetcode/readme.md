@@ -7,48 +7,49 @@ LeetCode is one of the largest platforms for learning programming and preparing 
 ## Stats
 
 | Difficulty Level | Problems Solved |
-| :-- |:----------------|
-| Easy | 19              |
-| Medium | 9            |
-| Hard | 2              |
-| **Total** | **30**      |
+| :--------------- | :-------------- |
+| Easy             | 19              |
+| Medium           | 10              |
+| Hard             | 2               |
+| **Total**        | **31**          |
 
 ## Solved Problems
 
 Here is a list of LeetCode problems I have completed:
 
-| No | Name | Difficulty | Solution Link |
-|----|------|------------|---------------|
-| 69 | Sqrt(x) | Easy | [View](./69.py) |
-| 283 | Move Zeroes | Easy | [View](./283.py) |
-| 1380 | Lucky Numbers in a Matrix | Easy | [View](./1380.py) |
-| 1636 | Sort Array by Increasing Frequency | Easy | [View](./1636.py) |
-| 1768 | Merge Strings Alternately | Easy | [View](./1768.py) |
-| 2620 | Counter | Easy | [View](./2620.js) |
-| 2667 | Create Hello World Function | Easy | [View](./2667.js) |
-| 66 | Plus One | Easy | [View](./66.py) |
-| 67 | Add Binary | Easy | [View](./67.py) |
-| 58 | Length of Last Word | Easy | [View](./58.py) |
-| 9 | Palindrome Number | Easy | [View](./9.py) |
-| 35 | Search Insert Position | Easy | [View](./35.py) |
-| 27 | Remove Element | Easy | [View](./27.py) |
-| 2 | Add Two Numbers | Medium | [View](./2.py) |
-| 4 | Median of Two Sorted Arrays | Hard | [View](./4.py) |
-| 3 | Longest Substring Without Repeating Characters | Medium | [View](./3.cs) |
-| 175 | Combine Two Tables | Easy | [View](./175.sql) |
-| 181 | Employees Earning More Than Their Managers | Easy | [View](./181.sql) |
-| 7 | Reverse Integer | Medium | [View](./7.py) |
-| 1 | Two Sum | Easy | [View](./1.py) |
-| 12 | Integer to Roman | Medium | [View](./12.py) |
-| 49 | Group Anagrams | Medium | [View](./49.py) |
-| 217 | Contains Duplicate | Easy | [View](./217.py) |
-| 242 | Valid Anagram | Easy | [View](./242.py) |
-| 347 | Top K Frequent Elements | Medium | [View](./347.py) |
-| 125 | Valid Palindrome | Easy | [View](./125.py) |
-| 15 | 3Sum | Medium | [View](./15.py) |
-| 11 | Container With Most Water | Medium | [View](./11.py) |
-| 167 | Two Sum II - Input Array Is Sorted | Medium | [View](./167.py) |
-| 42 | Trapping Rain Water | Hard | [View](./42.py) |
+| No   | Name                                           | Difficulty | Solution Link     |
+| ---- | ---------------------------------------------- | ---------- | ----------------- |
+| 69   | Sqrt(x)                                        | Easy       | [View](./69.py)   |
+| 283  | Move Zeroes                                    | Easy       | [View](./283.py)  |
+| 1380 | Lucky Numbers in a Matrix                      | Easy       | [View](./1380.py) |
+| 1636 | Sort Array by Increasing Frequency             | Easy       | [View](./1636.py) |
+| 1768 | Merge Strings Alternately                      | Easy       | [View](./1768.py) |
+| 2620 | Counter                                        | Easy       | [View](./2620.js) |
+| 2667 | Create Hello World Function                    | Easy       | [View](./2667.js) |
+| 66   | Plus One                                       | Easy       | [View](./66.py)   |
+| 67   | Add Binary                                     | Easy       | [View](./67.py)   |
+| 58   | Length of Last Word                            | Easy       | [View](./58.py)   |
+| 9    | Palindrome Number                              | Easy       | [View](./9.py)    |
+| 35   | Search Insert Position                         | Easy       | [View](./35.py)   |
+| 27   | Remove Element                                 | Easy       | [View](./27.py)   |
+| 2    | Add Two Numbers                                | Medium     | [View](./2.py)    |
+| 4    | Median of Two Sorted Arrays                    | Hard       | [View](./4.py)    |
+| 3    | Longest Substring Without Repeating Characters | Medium     | [View](./3.cs)    |
+| 175  | Combine Two Tables                             | Easy       | [View](./175.sql) |
+| 181  | Employees Earning More Than Their Managers     | Easy       | [View](./181.sql) |
+| 7    | Reverse Integer                                | Medium     | [View](./7.py)    |
+| 1    | Two Sum                                        | Easy       | [View](./1.py)    |
+| 12   | Integer to Roman                               | Medium     | [View](./12.py)   |
+| 49   | Group Anagrams                                 | Medium     | [View](./49.py)   |
+| 217  | Contains Duplicate                             | Easy       | [View](./217.py)  |
+| 242  | Valid Anagram                                  | Easy       | [View](./242.py)  |
+| 347  | Top K Frequent Elements                        | Medium     | [View](./347.py)  |
+| 125  | Valid Palindrome                               | Easy       | [View](./125.py)  |
+| 15   | 3Sum                                           | Medium     | [View](./15.py)   |
+| 11   | Container With Most Water                      | Medium     | [View](./11.py)   |
+| 167  | Two Sum II - Input Array Is Sorted             | Medium     | [View](./167.py)  |
+| 42   | Trapping Rain Water                            | Hard       | [View](./42.py)   |
+| 6    | Zigzag Conversion                              | Medium     | [View](./6.py)    |
 
 ## My Profile
 
