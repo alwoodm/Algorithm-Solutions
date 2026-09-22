@@ -9,9 +9,9 @@ LeetCode is one of the largest platforms for learning programming and preparing 
 | Difficulty Level | Problems Solved |
 | :--------------- | :-------------- |
 | Easy             | 19              |
-| Medium           | 10              |
+| Medium           | 11              |
 | Hard             | 2               |
-| **Total**        | **31**          |
+| **Total**        | **32**          |
 
 ## Solved Problems
 
@@ -50,6 +50,7 @@ Here is a list of LeetCode problems I have completed:
 | 167  | Two Sum II - Input Array Is Sorted             | Medium     | [View](./167.py)  |
 | 42   | Trapping Rain Water                            | Hard       | [View](./42.py)   |
 | 6    | Zigzag Conversion                              | Medium     | [View](./6.py)    |
+| 153  | Find Minimum in Rotated Sorted Array           | Medium     | [View](./153.py)  |
 
 ## My Profile
 
