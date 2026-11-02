@@ -1,0 +1,8 @@
+# Wszystko ignorowane (binarki bez rozszerzenia, .dSYM), oprócz źródeł
+*
+!*/
+!.gitignore
+!*.cpp
+!*.py
+!*.md
+*.dSYM/
